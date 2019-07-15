@@ -1,3 +1,4 @@
+/*Naughts and Crosses game made by @Ankit Tripathi, All Rights Reserved.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
